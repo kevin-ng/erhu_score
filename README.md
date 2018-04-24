@@ -1,2 +1,3 @@
 # erhu_score
-ErHu scores
+ErHu scores collection by Kevin
+Last updated Apr-2018
